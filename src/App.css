@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@800&family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&family=Open+Sans:ital,wght@0,400;0,600;1,300&display=swap');
+
+
+
+html{background-color: black;color: white;
+direction: rtl; font-family: 'IBM Plex Sans Arabic', sans-serif !important;
+}
+.MuiOutlinedInput-notchedOutline {
+
+    border-color:white !important;
+}
+#demo-select-small-label{
+    color: white !important;
+}
